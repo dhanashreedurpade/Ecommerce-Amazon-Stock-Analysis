@@ -21,4 +21,4 @@ Improved understanding of stock volatility for risk assessment and strategic pla
 
 Screenshot:
 This is what the dashboard looks like
-(https://github.com/dhanashreedurpade/Ecommerce-Amazon-Stock-Analysis/blob/main/Snapshot%20of%20Dashboard.png) 
+https://github.com/dhanashreedurpade/Ecommerce-Amazon-Stock-Analysis/blob/main/Snapshot%20of%20Dashboard.png
