@@ -13,3 +13,11 @@ Features and Highlight:
 Identified daily, monthly, and yearly stock trends with clear visualizations.
 Built an interactive dashboard for real-time stock performance tracking.
 Applied statistical techniques to analyze volatility and price movement patterns.
+
+Business Impact:
+Helped identify investment opportunities by uncovering long-term and short-term price patterns.
+Enabled data-driven decision-making for traders and analysts with interactive dashboards.
+Improved understanding of stock volatility for risk assessment and strategic planning.
+
+Screenshot:
+This is what the dashboard looks like
